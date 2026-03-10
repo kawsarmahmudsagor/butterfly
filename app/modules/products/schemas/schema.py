@@ -8,7 +8,7 @@ class Metadata(BaseModel):
 
 class Product3DModel(BaseModel):
     url: str
-    available_colour: List[str]
+    available_colours: List[str]
     metadata: Metadata
 
 

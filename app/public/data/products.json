@@ -4,10 +4,10 @@
     "product_name": "nosering",
     "product_3D_model": {
       "url": "/public/3D_models/nosering.glb",
-      "available_colour": [
-        "red",
-        "black",
-        "white"
+      "available_colours": [
+        "#FF0000",
+        "#000000",
+        "#FFFFFF"
       ]
     },
     "metadata": {
@@ -19,9 +19,9 @@
     "product_name": "earring",
     "product_3D_model": {
       "url": "/public/3D_models/earring.glb",
-      "available_colour": [
-        "brown",
-        "dark_brown"
+      "available_colours": [
+        "#8B4513",
+        "#654321"
       ]
     },
     "metadata": {
